@@ -4,6 +4,8 @@ Jalen Moore - http://github.com/moorejalen2800
 
 Deployed Link - https://moorejalen2800.github.io/Profile320/#projects
 
+LinkedIn - https://www.linkedin.com/in/jalen-moore-17a868233/
+
 ## Concept
 
 This portfolio is to showcase my projects with the hopes of one day sustaining a job in the tech world. With every new projet i hope to show amazing growth which is my num 1 objective. Curently working towrds being Full Stack Developer which include: Helping with the design and development of software. Testing and debugging software to keep it optimized.
