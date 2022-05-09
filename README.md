@@ -2,7 +2,7 @@
 
 Jalen Moore - http://github.com/moorejalen2800
 
-Deployed Link - 
+Deployed Link - https://moorejalen2800.github.io/Profile320/#projects
 
 ## Concept
 
