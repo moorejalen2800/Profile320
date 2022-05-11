@@ -1,74 +1,3 @@
-/* .container {
-    padding: 60px;
-    text-align: center;
-    background: black;
-    color: white;
-    font-size: 30px;
-  }
-
-  body {
-    font-family: "Sofia", sans-serif;
-  }
-
-nav {
-    text-align: center;
-    font-size: 30px;
-    text-decoration-color: aliceblue;
-
-
-
-
-}
- .highlighted-text{
-     text-size-adjust: 79;
- }
-
-section{
-    columns: calc(6,9,12);
-    align-items: right;
-
-}
-
-nav {
-    width : 300px; 
-    background: #d9d9d9;
-    margin : 40px auto; 
-  }
-  
-  span {
-    padding : 30px;
-    background : #2d2f31; 
-    color : aliceblue;
-    font-size : 1.2em;
-    font-variant : small-caps;
-    cursor : pointer;
-    display: block;
-  }
-  
-  span::after {
-    float: right;
-    right: 10%;
-    content: "+";
-  }
-  
-  .slide {
-    clear:both;
-    width:100%;
-    height:0px;
-    overflow: hidden;
-    text-align: center;
-    transition: height .4s ease;
-  }
-  
-  .slide li {padding : 30px;}
-  
-  #touch {position: absolute; opacity: 0; height: 0px;}    
-  
-  #touch:checked + .slide {height: 300px;} 
- */
-
-
-
 navbar {
   border-radius: 0;
   margin-bottom: 0;
@@ -136,5 +65,4 @@ body {
   font-family: "Sofia", sans-serif;
 }
 
-/*add scrollopsy so nav bar changes as scroll*/
-/*body id{"myPage"data-spy="scroll"data-target=".navbar"data-offset="60"><div id="about"class="container-fluid"><div id="services"class="container-fluid"><div id="portfolio"class="container-fluid"><div id="pricing"class="container-fluid"><div id="contact"class="container-fluid">
+
